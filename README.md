@@ -1,4 +1,10 @@
-data-science-project
+Project Title:
+Predicting NVIDIA Stock Price Using Machine Learning Models 
+
+Project Description:
+This project uses machine learning and time series models (ARIMA, LSTM, Random Forest, Linear Regression) to forecast NVIDIA's stock price. It aims to evaluate the performance of different models on both daily and weekly time horizons and visualize their predictions.
+
+Installation / Requirements
 Run the code to follow the step
 Step-1
 Run this command 
