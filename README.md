@@ -7,6 +7,6 @@ This project uses machine learning and time series models (ARIMA, LSTM, Random F
 Installation / Requirements
 Step-1
 Click Runtime > Run All in the Colab menu
-on first run it install packages and restarts.
+on first run it install packages and restart.
 Click Runtime > Run All in the Colab menu
 on second run it skips installation and proceeds.
